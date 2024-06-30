@@ -7,7 +7,7 @@ Full-stack Developer PHP
 I'm a year full-stack developer at Chas Academy. Creative person problem solving and trained and self-taught experience in web design and development. Dedicated to completing tasks on time and with quality in mind. Take full responsibility for delivering my work on time and finding the right balance between quality work and quality time with myself.
 
 * 🌍  I'm based in Norrtälje
-* 🖥️  See my portfolio at [My Portfolio](http://https://will3343.github.io)
+* 🖥️  See my portfolio at [My Portfolio](https://will3343.github.io)
 * ✉️  You can contact me at [willigebre@gmail.com](mailto:willigebre@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
